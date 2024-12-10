@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a common bug related to ERC20 token balance calculations. The bug involves the omission of decimal adjustments when reading balances. A solution is also provided.
